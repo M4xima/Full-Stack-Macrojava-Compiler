@@ -80,7 +80,7 @@ The final output is executable MIPS Assembly designed for the SPIM emulator.
 
 ## 📚 References & Resources
 
-This project was developed based on specifications from **CS3310 - Language Translators Lab** (IIT Madras).
+This project was developed based on specifications from **CS3300 - Compiler Design Course** (IIT Madras).
 
 *   **Course Details & Subsets Specification:** [CS3300 Page](https://www.cse.iitm.ac.in/~krishna/cs3300/subsets.html)
 *   **MIPS Instruction Reference:** [SPIM Ref](https://www.cse.iitm.ac.in/~krishna/cs3300/spim_ref.html#instructions)
